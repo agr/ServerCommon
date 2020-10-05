@@ -4,7 +4,6 @@
     <TargetFramework>net472</TargetFramework>
     <Description>Shared server-side logging component for NuGet services.</Description>
   </PropertyGroup>
-
   <ItemGroup>
     <PackageReference Include="Microsoft.ApplicationInsights">
       <Version>2.10.0</Version>

@@ -4,7 +4,6 @@
     <TargetFramework>net472</TargetFramework>
     <Description>A framework to access the NuGet incident API.</Description>
   </PropertyGroup>
-
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json">
       <Version>10.0.2</Version>
